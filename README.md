@@ -7,7 +7,7 @@
 ## 🧑‍💻 Sobre Mim
 
 🎓 **Formação:** Análise e Desenvolvimento de Sistemas pelo SENAI  
-🎓 **Graduação:** Ciência da Computação (1º semestre)  
+🎓 **Graduação:** Ciência da Computação (2º semestre)  
 👤 **Nome:** Gustavo Dutra  
 🎂 **Idade:** 18 anos  
 🌎 **Localização:** São Paulo, Brasil  
