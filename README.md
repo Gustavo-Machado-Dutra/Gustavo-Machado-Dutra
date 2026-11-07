@@ -16,8 +16,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
-</div>Sobre mim
-Sou estudante de Ciência da Computação e técnico em Análise e Desenvolvimento de Sistemas pelo SENAI. Tenho interesse em desenvolvimento de software e venho aplicando meus estudos em projetos que envolvem aplicações web, sistemas de gestão, bancos de dados, análise de informações e recursos de inteligência artificial.
+</div>Sou estudante de Ciência da Computação e técnico em Análise e Desenvolvimento de Sistemas pelo SENAI. Tenho interesse em desenvolvimento de software e venho aplicando meus estudos em projetos que envolvem aplicações web, sistemas de gestão, bancos de dados, análise de informações e recursos de inteligência artificial.
 
 Gosto de compreender o problema antes de implementar uma solução, organizar o código e evoluir as funcionalidades de forma incremental. Meus repositórios reúnem projetos acadêmicos, experimentos e aplicações em desenvolvimento — alguns individuais e outros construídos em equipe.
 
@@ -64,13 +63,4 @@ Linguagens e fundamentos web
 </p>Linguagens mais utilizadas
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gustavo-Machado-Dutra&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Distribuição de linguagens nos repositórios públicos" />
-</p>Sobre as métricas: os cards consultam serviços externos e são atualizados conforme a disponibilidade e o cache de cada provedor. O cartão de estatísticas considera dados públicos por padrão; contribuições privadas só aparecem conforme as configurações de privacidade do GitHub e as permissões do serviço. O gráfico github-readme-activity-graph aceita até 90 dias por solicitação; o card de resumo de perfil complementa a visualização com o histórico de contribuições. Nenhum total de commits, PRs, estrelas ou sequência foi fixado manualmente neste README.
-
-Contato
-<p>
-  <a href="https://github.com/Gustavo-Machado-Dutra">
-    <img src="https://img.shields.io/badge/GitHub-Gustavo--Machado--Dutra-181717?style=for-the-badge&logo=github" alt="Perfil no GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/gustavo-dutra-859241300/">
-    <img src="https://img.shields.io/badge/LinkedIn-Gustavo%20Dutra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil no LinkedIn" />
-  </a>
+</p>
