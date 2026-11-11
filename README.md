@@ -20,12 +20,6 @@
 
 Gosto de compreender o problema antes de implementar uma solução, organizar o código e evoluir as funcionalidades de forma incremental. Meus repositórios reúnem projetos acadêmicos, experimentos e aplicações em desenvolvimento — alguns individuais e outros construídos em equipe.
 
-Áreas de interesse:
-- Desenvolvimento de aplicações web e sistemas de gestão.
-- Back-end, APIs, autenticação e persistência de dados.
-- Modelagem relacional e consultas SQL.
-- Análise de dados e aplicações de inteligência artificial.
-- Qualidade de software, testes e boas práticas de desenvolvimento.
 As tecnologias abaixo foram identificadas em projetos e arquivos de configuração públicos. A presença de uma tecnologia em um repositório demonstra uso naquele contexto, não uma declaração de domínio profissional.
 
 Tecnologias identificadas nos projetos
