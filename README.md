@@ -18,11 +18,8 @@
   </p>
 </div>Sou estudante de Ciência da Computação e técnico em Análise e Desenvolvimento de Sistemas pelo SENAI. Tenho interesse em desenvolvimento de software e venho aplicando meus estudos em projetos que envolvem aplicações web, sistemas de gestão, bancos de dados, análise de informações e recursos de inteligência artificial.
 
-Gosto de compreender o problema antes de implementar uma solução, organizar o código e evoluir as funcionalidades de forma incremental. Meus repositórios reúnem projetos acadêmicos, experimentos e aplicações em desenvolvimento — alguns individuais e outros construídos em equipe.
+Gosto de compreender o problema antes de implementar uma solução, organizar o código e evoluir as funcionalidades de forma incremental. Meus repositórios reúnem projetos acadêmicos, experimentos e aplicações em desenvolvimento.
 
-As tecnologias abaixo foram identificadas em projetos e arquivos de configuração públicos. A presença de uma tecnologia em um repositório demonstra uso naquele contexto, não uma declaração de domínio profissional.
-
-Tecnologias identificadas nos projetos
 Linguagens e fundamentos web
 <p>
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" alt="Python, JavaScript, TypeScript, HTML e CSS" />
